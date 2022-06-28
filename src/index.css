@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+a, a:hover{
+  text-decoration:none;
+  color:#555;
+}
+/* base - make */
+.lh-80{
+  line-height:80px;
+}
+.fs-50{
+  font-size:50px;
+}
+/* TopNav */
+.bg-ed{
+  background:#ededed;
+  height:30px;
+}
+.topnav-menu{
+  font-size:14px;
+  line-height:30px;
+}
+.bar{
+  display:inline-block;
+  width:1px;
+  height:15px;
+  vertical-align:middle;
+  border-right:1px solid #adadad;
+}
+/* MiddleNav */
+.middlenav{
+  height:80px;
+}
+.middle-icon a{
+  display:block;
+  height:80px;
+}
+.middle-icon a span{
+  line-height:80px;
+}
