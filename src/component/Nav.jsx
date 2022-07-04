@@ -1,6 +1,6 @@
 import React from 'react'
-import TopNav from '../componentin/TopNav';
-import MiddleNav from '../componentin/MiddleNav';
+import TopNav from '../navin/TopNav';
+import MiddleNav from '../navin/MiddleNav';
 
 const Nav = () => {
   return (

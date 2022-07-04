@@ -34,6 +34,12 @@ a, a:hover{
 .middlenav{
   height:80px;
 }
+.search-bg{
+  border:2px solid #ff5555;
+  border-radius:22px;
+  margin-top:22px;
+  padding:9px 15px;
+}
 .middle-icon a{
   display:block;
   height:80px;
